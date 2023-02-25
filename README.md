@@ -32,18 +32,12 @@
 
 ----
 
-###  frontend web includes:
+###  frontend web includes: 
 
   - [X] Html
   - [ ] Css
   - [ ] Sass
   - [ ] JavaScript
-
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon
 
 <br/>
 
