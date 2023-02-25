@@ -34,10 +34,10 @@
 
 ###  frontend web includes: 
 
- - [X] Html
- - [X] Css
- - [ ] Sass
- - [ ] JavaScript
+  - [X] Html
+  - [ ] Css
+  - [ ] Sass
+  - [ ] JavaScript
 
 <br/>
 
