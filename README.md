@@ -27,9 +27,7 @@
 
 <br/>
 
-## frontend includes:
-
-<br/>
+----
 
 ### frontend web includes:
  - [x] Html
@@ -37,8 +35,14 @@
  - [ ] Sass
  - [ ] JavaScript
 
+<br/>
+
+----
+
 ### frontend desktop includes:
 - [ ] java
+
+<br/>
 
 ----
 
@@ -46,9 +50,12 @@
 - [ ] java
 
 <br/>
-<br/>
 
 ---
+
+<br/>
+<br/>
+
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
 
@@ -71,5 +78,5 @@
 [linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163/
 
 
-# ![Text Mask](https://ofekbytes.github.io/assets/images/picture/yamon.jpg)
+<!-- # ![Text Mask](https://my picure.jpg) -->
  
