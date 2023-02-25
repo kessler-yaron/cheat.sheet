@@ -31,7 +31,7 @@
 
 ### frontend web includes:
 
- - [x] Html
+ [x] Html
  - [ ] Css
  - [ ] Sass
  - [ ] JavaScript
