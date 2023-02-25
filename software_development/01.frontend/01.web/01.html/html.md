@@ -1,3 +1,5 @@
 # 01. html
-    - commands
-    - installation
+
+### frontend web includes:
+ *  [x] basic
+ *  [ ] test
