@@ -52,20 +52,20 @@
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/koskasmail/webPlayground.svg?style=for-the-badge
-[contributors-url]: https://github.com/koskasmail/webPlayground/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/kessler-yaron/cheat.sheet.svg?style=for-the-badge
+[contributors-url]: https://github.com/kessler-yaron/cheat.sheet/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/koskasmail/webPlayground.svg?style=for-the-badge
-[forks-url]: https://github.com/koskasmail/webPlayground/network/members
+[forks-shield]: https://img.shields.io/github/forks/kessler-yaron/cheat.sheet.svg?style=for-the-badge
+[forks-url]: https://github.com/kessler-yaron/cheat.sheet/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/koskasmail/webPlayground.svg?style=for-the-badge
-[stars-url]: https://github.com/koskasmail/webPlayground/stargazers
+[stars-shield]: https://img.shields.io/github/stars/kessler-yaron/cheat.sheet.svg?style=for-the-badge
+[stars-url]: https://github.com/kessler-yaron/cheat.sheet/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/koskasmail/webPlayground.svg?style=for-the-badge
-[issues-url]: https://github.com/koskasmail/webPlayground/issues
+[issues-shield]: https://img.shields.io/github/issues/kessler-yaron/cheat.sheet.svg?style=for-the-badge
+[issues-url]: https://github.com/kessler-yaron/cheat.sheet/issues
 
-[license-shield]: https://img.shields.io/github/license/koskasmail/webPlayground.svg?style=for-the-badge
-[license-url]: https://github.com/koskasmail/webPlayground/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/kessler-yaron/cheat.sheet.svg?style=for-the-badge
+[license-url]: https://github.com/kessler-yaron/cheat.sheet/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163/
