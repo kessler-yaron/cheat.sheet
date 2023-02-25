@@ -29,16 +29,20 @@
 
 ## frontend 
 
+<br/>
+
 ### frontend web includes:
  - [x] Html
  - [ ] Css
  - [ ] Sass
  - [ ] JavaScript
 
-### frontend desktop includes
+### frontend desktop includes:
 - [ ] java
 
-## backend includes
+----
+
+## backend includes:
 - [ ] java
 
 
