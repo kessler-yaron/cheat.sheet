@@ -46,18 +46,17 @@
 
 ----
 
-## backend includes:
+### backend includes:
 - [ ] java
 
 <br/>
 
 ---
 
-<br/>
-<br/>
-
-
 <p align="right">(<a href="#topage">back to top</a>)</p>
+<br/>
+<br/>
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/kessler-yaron/cheat.sheet.svg?style=for-the-badge
 [contributors-url]: https://github.com/kessler-yaron/cheat.sheet/graphs/contributors
