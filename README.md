@@ -6,7 +6,7 @@
 [![MIT License][license-shield]][license-url]
 
 <a name="topage"></a>
-<br/>
+
 <br/>
 
 # cheat.sheet 
