@@ -24,7 +24,7 @@
 
 <br/>
 
-### **recent activities: **
+### recent activities: 
 
 > html - basic setup 
 
@@ -32,7 +32,7 @@
 
 ----
 
-### ** frontend web includes: **
+###  frontend web includes: 
 
  - [X] Html
  - [x] Css
