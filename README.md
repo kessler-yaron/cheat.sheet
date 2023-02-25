@@ -23,7 +23,6 @@
   ```
 
 ## **recent activities**
-
 > html - basic setup 
 
 <br/>
@@ -31,7 +30,6 @@
 ----
 
 ### frontend web includes:
-
  - [x] Html
  - [ ] Css
  - [ ] Sass
