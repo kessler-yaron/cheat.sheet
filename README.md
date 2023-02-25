@@ -25,7 +25,6 @@
 ## **recent activities**
 > html - basic setup 
 
-<br/>
 
 ----
 
