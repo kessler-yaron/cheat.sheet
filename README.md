@@ -22,7 +22,7 @@
     Jaron.
   ```
 
-## **recent activities**
+## recent activities
 > html - basic setup 
 
 
