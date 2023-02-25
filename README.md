@@ -22,16 +22,17 @@
     Jaron.
   ```
 
-## recent activities
+## **recent activities**
 > html - basic setup 
 
+<br/>
 
 ----
 
 ### frontend web includes:
 
  - [X] Html
- - [X] Css
+ - [x] Css
  - [ ] Sass
  - [ ] JavaScript
 
