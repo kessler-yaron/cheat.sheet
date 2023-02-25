@@ -13,7 +13,7 @@
 
 <br/>
 
-## welcome
+## **welcome**
   ```sh
     "cheat.sheet" 
         is a place where i can put my most recent computer activities.
@@ -22,10 +22,7 @@
     Jaron.
   ```
 
-<br/>
-
-## recent activities
-
+## **recent activities**
 > html - basic setup 
 
 <br/>
@@ -33,7 +30,6 @@
 ----
 
 ### frontend web includes:
-
  - [x] Html
  - [ ] Css
  - [ ] Sass
