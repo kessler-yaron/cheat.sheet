@@ -13,7 +13,7 @@
 
 <br/>
 
-## **welcome**
+## welcome
   ```sh
     "cheat.sheet" 
         is a place where i can put my most recent computer activities.
@@ -24,7 +24,7 @@
 
 <br/>
 
-## **recent activities**
+## recent activities
 
 > html - basic setup 
 
