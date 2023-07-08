@@ -15,7 +15,7 @@
   
 ### vim install  
   ```sh
-sudo apt-get install vim
+sudo apt-get install vim -y
 ```
 
 ----
@@ -29,7 +29,7 @@ sudo apt-get update -y ; apt-get upgrade -y
 
 #### 2) install git
   ```sh
-sudo apt-get install git
+sudo apt-get install git -y
 ```
 
 |
