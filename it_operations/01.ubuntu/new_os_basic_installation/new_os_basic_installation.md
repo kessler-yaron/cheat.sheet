@@ -6,12 +6,13 @@
 
 ### Thoughts
 
-  1. When i am installing a fresh OS (Operating System) on my computer there is a few softwares/programs that i thing is useful/helpful for my daily tasks.
+  1. When i am installing a fresh OS (Operating System) on my computer there is a few softwares (programs) that i think is useful for my daily tasks.
+  2. software installation using command line (terminal) 
 
-### Console/Terminal software/programs - 
+### software installation list  
 1. **vim** - vim (Vi IMproved) is a text editor.
 2. **git** - version control system that tracks changes in a computer files.
-3. 
+
   
 ### vim install  
   ```sh
