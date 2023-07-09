@@ -2,7 +2,7 @@
 
 # New OS Basic Installation
 
-### ----[ Thoughts ]------------
+### [ Thoughts ]
 
   1. When i am installing a fresh OS (Operating System) on my computer there is a few softwares (programs) that i think is useful for my daily tasks.
   2. software installation using command line (terminal)
@@ -15,7 +15,7 @@
 
 ----
 
-### ----[ vim install ]------------
+### [ vim install ]
 
 #### 1) os system update
   ```sh
@@ -28,7 +28,7 @@ sudo apt-get install vim -y
 ```
 
 ----
-### ----[ git install ]------------
+### [ git install ]
 
 #### 1) os system update
   ```sh
