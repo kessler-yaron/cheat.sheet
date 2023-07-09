@@ -9,9 +9,9 @@
 
 ----
 
-### ----[ software installation list ]------------
-1. **vim** - vim (Vi IMproved) is a text editor.
-2. **git** - version control system that tracks changes in a computer files.
+### [ software installation list ]
+1. **[ vim ]** - vim (Vi IMproved) is a text editor.
+2. **[ git ]** - version control system that tracks changes in a computer files.
 
 ----
 
