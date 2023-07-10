@@ -28,6 +28,15 @@ sudo apt-get update -y ; apt-get upgrade -y
 sudo apt-get install vim -y
 ```
 
+#### All Installation Steps
+ ```sh
+## 1) os system update
+sudo apt-get update -y ; apt-get upgrade -y
+
+## 2) install vim
+sudo apt-get install vim -y
+```
+
 <br/>
 
 -----
@@ -42,6 +51,16 @@ sudo apt-get update -y ; apt-get upgrade -y
   ```sh
 sudo apt-get install git -y
 ```
+
+#### All Installation Steps
+ ```sh
+## 1) os system update
+sudo apt-get update -y ; apt-get upgrade -y
+
+## 2) install git
+sudo apt-get install git -y
+```
+
 ---
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
