@@ -2,6 +2,8 @@
 
 # Docker Engine
 
+## `A. Set up Docker's apt repository`
+
 #### 1) os system update
 
 ```sh
@@ -32,7 +34,7 @@ sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyring
 sudo chmod a+r /etc/apt/keyrings/docker.asc
 ```
 
-#### 6) xxx
+#### 6) Add the repository to Apt sources
 
 ```sh
 echo \
@@ -47,21 +49,7 @@ echo \
 sudo apt-get update
 ```
 
-#### 8) Install the Docker packages (latest version)
-
-```sh
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-```
-
-#### 9) Test Docker Engine installation `hello-world` image.
-
-```sh
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
-```
-
-
-
-#### (*) All net-tools Installation Steps
+#### (1-7) Set up Docker's apt repository - All Steps
 
  ```sh
 # Add Docker's official GPG key:
@@ -80,6 +68,37 @@ sudo apt-get update
 ```
 
 ----
+
+## `B. Install the Docker & Test installation`
+
+#### 1) Install the Docker packages (latest version)
+
+```sh
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+```
+
+#### 2) Test Docker Engine installation `hello-world` image.
+
+```sh
+sudo docker run hello-world
+```
+
+#### 3) docker version
+
+```sh
+sudo docker --version
+```
+
+#### 4) docker exists images
+
+```sh
+sudo docker images
+```
+
+
+
+----
+
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
 <br/>
