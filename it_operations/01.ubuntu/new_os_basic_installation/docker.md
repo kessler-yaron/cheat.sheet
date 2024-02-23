@@ -95,8 +95,50 @@ sudo docker --version
 sudo docker images
 ```
 
+----
+
+## `C. Install the Docker Desktop`
+
+#### 1) Install gnome-terminal (must)
+
+```sh
+sudo apt install gnome-terminal
+```
+
+#### 2) Download docker-desktop 
+
+##### Download latest DEB package (not latest version)
+
+```sh
+https://desktop.docker.com/linux/main/amd64/137060/docker-desktop-4.27.2-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64&_gl=1*1l0hx06*_ga*MTE5NTYxMjQxNy4xNzA4NjYyMTU5*_ga_XJWPQMJYHQ*MTcwODY3MTgwMi4zLjEuMTcwODY3Mjc0NS42MC4wLjA.
+```
+
+##### Download latest DEB package  (latest version)
+
+```sh
+https://docs.docker.com/desktop/install/ubuntu/#install-docker-desktop
+```
+
+#### 3) os system update
+
+```sh
+sudo apt-get update -y ; apt-get upgrade -y
+```
+
+#### 4) os system update
+
+##### example - template
+```sh
+sudo apt-get install ./docker-desktop-<version>-<arch>.deb
+```
+
+##### example
+```sh
+sudo apt-get install ./docker-desktop-4.27.2-amd64.deb
+```
 
 ----
+
 todo:
 * docker path
 * create a new docker image
