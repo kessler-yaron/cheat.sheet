@@ -96,6 +96,14 @@ sudo docker images
 ```
 
 
+----
+todo:
+* docker path
+* create a new docker image
+* start/stop docker image
+* copy + past docker image
+* erase docker image
+* uninstall docker
 
 ----
 
