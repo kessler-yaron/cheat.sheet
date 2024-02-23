@@ -11,7 +11,7 @@ sudo apt-get update -y ; apt-get upgrade -y
 #### 2) install curl
 
 ```sh
-apt-get install ca-certificates curl -y
+sudo apt-get install ca-certificates curl -y
 ```
 
 #### 3) execute permission
@@ -20,13 +20,13 @@ apt-get install ca-certificates curl -y
 sudo install -m 0755 -d /etc/apt/keyrings
 ```
 
-#### 4) xxx
+#### 4) PGP public key block
 
 ```sh
 sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
 ```
 
-#### 5) xxx
+#### 5) OS permission PGP public key block
 
 ```sh
 sudo chmod a+r /etc/apt/keyrings/docker.asc
@@ -41,11 +41,24 @@ echo \
   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
 
-#### 7) xxx
+#### 7) os system update
 
 ```sh
 sudo apt-get update
 ```
+
+#### 8) Install the Docker packages (latest version)
+
+```sh
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+
+#### 9) Test Docker Engine installation `hello-world` image.
+
+```sh
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+
 
 
 #### (*) All net-tools Installation Steps
