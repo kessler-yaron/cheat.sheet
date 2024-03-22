@@ -1,5 +1,8 @@
 # Install unity3d Hub.md
 
+## General Information
+* unity is....
+
 ## install unity3d Hub
 ```
 sudo apt-get update -y ; sudo apt-get upgarde -y
@@ -20,7 +23,16 @@ sudo apt-get install unityhub -y
    * The user or group installing the Hub has write permissions to the `/usr/share/keyrings` directory.
    * The user or group installing Hub has at least read permissions to the resulting file `Unity_Technologies_ApS.gpg.**`
 
+------
+
 ## uninstall unity3d Hub
 ```
 $ sudo apt-get remove unityhub
+```
+
+------
+
+### official site (more information)
+```
+* https://docs.unity3d.com/hub/manual/InstallHub.html
 ```
