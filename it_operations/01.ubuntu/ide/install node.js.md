@@ -10,6 +10,9 @@ sudo apt install nodejs
 
 sudo apt-get update -y ; sudo apt-get upgarde -y
 node -v
+
+sudo apt install npm -y
+npm -v
 ```
 
 ### Note: 
