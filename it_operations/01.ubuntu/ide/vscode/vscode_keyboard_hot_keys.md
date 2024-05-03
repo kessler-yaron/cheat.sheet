@@ -1,3 +1,5 @@
+<a name="topage"></a>
+
 # vscode_keyboard_hot_keys
 
 * extensions <ctrl+shift+x>
@@ -13,7 +15,7 @@
 * go to definition <f12>
 * peek definition <atl+f12>
 
-------------
+---
 
 # unsorted
 
@@ -25,7 +27,13 @@
 
 -- zen mode - pure developing - ctrl+<k>+<z> (????????)
 
-------------
+---
 
 * TODO
     * continue with shortcut & sorted.
+
+---
+
+<p align="right">(<a href="#topage">back to top</a>)</p>
+<br/>
+<br/>
