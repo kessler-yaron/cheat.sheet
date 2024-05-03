@@ -1,3 +1,5 @@
+<a name="topage"></a>
+
 # extensions
 
 ## extensions installation list - 
@@ -17,3 +19,9 @@
 12) Material Icon Theme - <Philipp Kief> ..MIT License
 13) Code Runner - <Jun Han> ..MIT License
 14) HTML CSS Support - <ecmel> ..MIT License
+
+---
+
+<p align="right">(<a href="#topage">back to top</a>)</p>
+<br/>
+<br/>
