@@ -26,7 +26,8 @@
 
 ### recent activities: 
 
-> html - basic setup 
+> html - basic setup
+* https://kessler-yaron.github.io/cheat.sheet/blob/main/software_development/01.frontend/01.web/01.web.html
 
 <br/>
 
