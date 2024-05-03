@@ -31,13 +31,15 @@
 ## R
 ## S
 ## T 
+   * top
 ## U
 ## V
 ## W
 ## X
 ## Y
 ## Z
-
+## ???
+   * sudo apt-get install --reinstall rsyslog
 ----
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
