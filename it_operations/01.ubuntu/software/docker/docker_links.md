@@ -8,7 +8,10 @@
 
 ### docker container
 * mariadb
-   * https://hub.docker.com/_/mariadb
+   * https://hub.docker.com//mariadb
+   * https://mkyong.com/
+      * https://mkyong.com/docker/docker-running-mariadb-as-a-container/
+
 
 ----
 
