@@ -18,15 +18,16 @@ docker inspect <container_id>
 # J
 # K
 # L
+## list containers
    * list currently running containers:
        ```
        docker ps
        ```
-   * list all docker containers (status: stop/start):
+   * `-a` list all docker containers (status: stop/start):
       ```
-      docker ps --a
+      docker ps -a
       ```
-   * list all docker containers (status: stop/start):
+   * `--all`list all docker containers (status: stop/start):
       ```
       docker ps --all
       ```
@@ -36,27 +37,56 @@ docker inspect <container_id>
 # P
 # Q
 # R
-# S
-## `start` an existing container:
-   * command template:
+## run
+   * Creates a docker container from docker image.
+   * command:
        ```
        docker start <container_name/container-id>
        ```
-   * example: start 1 container-id (5395481d7201)
+   * example:
+       * start 1 container-id (5395481d7201)
+       ```
+       sudo docker start 5395481d7201
+       ```
+
+ * edit it
+```
+    * Docker Logo from Docker Inc & @bloglaurelGeneral Usage Build Images
+      Debug
+    * Volumes
+      Start a container in background
+    * $> docker run -d jenkins
+      Start an interactive container
+      $> docker run -it ubuntu bash
+      Export port from a container
+      $> docker run -p 80:80 -d nginx
+      Start a named container
+      $> docker run --name m
+   ```    
+       
+# S
+## `start` an existing container:
+   * command:
+       ```
+       docker start <container_name/container-id>
+       ```
+   * example:
+       * start 1 container-id (5395481d7201)
        ```
        sudo docker start 5395481d7201
        ```
 ## `stop` an existing container:     
-   * command template::
+   * command:
        ```
        docker stop <container_name/container-id>
        ```
-   * example: stop 3 container-id (5395481d7201 42bc125f19c3 b60e702047e4)
+   * example:
+       * stop 3 container-id (5395481d7201 42bc125f19c3 b60e702047e4)
        ```
        sudo docker stop 5395481d7201 42bc125f19c3 b60e702047e4
        ```
 ## `stat` - docker container stats
-   * command template:
+   * command:
        ```
        docker container stats
        ```
@@ -75,7 +105,20 @@ docker inspect <container_id>
 # Y
 # Z
 
-
+### links - edit it
+* https://docs.docker.com/get-started/docker_cheatsheet.pdf
+* https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf
+* https://phoenixnap.com/kb/docker-commands-cheat-sheet
+* https://phoenixnap.com/kb/wp-content/uploads/2022/12/running-a-container-cheat-sheet.png
+* https://students.mimuw.edu.pl/~zbyszek/bezp/docker/4855175-docker-cheatsheet-r4v2.pdf
+* https://www.studocu.com/row/document/universite-des-sciences-et-de-la-technologie-houari-boumediene/reseaux-et-systemes-informatiques/docker-commands-cheat-sheet-pdf/68044248
+* https://www.hostinger.com/tutorials/docker-cheat-sheet
+* https://hub.docker.com/_/mariadb
+* https://mkyong.com/
+* http://www.dev.ucm.minfin.gov.ao/cs/groups/public/documents/document/zmlu/mdy3/~edisp/minfin067977.pdf
+* https://www.docker.com/
+* https://mkyong.com/docker/how-to-run-an-init-script-for-docker-mariadb/
+* https://mkyong.com/docker/how-to-run-an-init-script-for-docker-postgres/
 ----
 
 
