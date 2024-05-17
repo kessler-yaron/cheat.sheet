@@ -6,7 +6,7 @@
 ## install node.js
 ```
 sudo apt-get update -y ; sudo apt-get upgarde -y
-sudo apt install nodejs
+sudo apt install nodejs -y 
 
 sudo apt-get update -y ; sudo apt-get upgarde -y
 node -v
