@@ -4,6 +4,12 @@
 
 
 ## A
+### avahi-browse
+* Browse for mDNS/DNS-SD services using the Avahi daemon
+```
+avahi-browse --all -t -r
+```
+
 ## B
 ## C
 ## D
